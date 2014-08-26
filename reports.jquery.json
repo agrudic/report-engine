@@ -1,0 +1,40 @@
+{
+  "name": "reports",
+  "version": "0.1.0",
+  "title": "jQuery Reports",
+  "author": {
+		"name": "Aleksandar Zgonjan, Anton Grudiæ",
+		"url": "https://mali-zeleni.hr"
+	},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
+  "description": "Create and print reports.",
+  "keywords": [
+    "jquery",
+    "report",
+	"reports",
+	"plugin",
+	"engine"
+  ],
+  "homepage": "https://github.com/agrudic/report-engine",
+  "docs": "https://github.com/agrudic/report-engine/wiki",
+  "demo": "https://github.com/agrudic/report-engine",
+  "bugs": "https://github.com/agrudic/report-engine/issues",
+  "maintainers": [
+    {
+      "name": "Aleksandar Zgonjan",
+      "url": "http://mali-zeleni.hr"
+    },
+	{
+      "name": "Anton Grudiæ",
+      "url": "http://mali-zeleni.hr"
+    }
+  ]
+}
