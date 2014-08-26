@@ -1,0 +1,33 @@
+{
+  "name": "report",
+  "version": "0.1.0",
+  "title": "jQuery Report",
+  "author": {
+    "name": "Aleksandar Zgonjan",
+    "url": "https://mali-zeleni.hr"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
+  "description": "With this plugin you can create super reports in no time.",
+  "keywords": [
+    "jquery",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/agrudic/report",
+  "docs": "https://github.com/agrudic/report/wiki",
+  "demo": "https://github.com/agrudic/report",
+  "bugs": "https://github.com/agrudic/report/issues",
+  "maintainers": [
+    {
+      "name": "Aleksandar Zgonjan",
+      "url": "http://mali-zeleni.hr"
+    }
+  ]
+}
