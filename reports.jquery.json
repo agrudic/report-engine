@@ -1,6 +1,6 @@
 {
   "name": "reports",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "title": "jQuery Reports",
   "author": {
 		"name": "Aleksandar Zgonjan",
@@ -33,7 +33,7 @@
       "url": "http://mali-zeleni.hr"
     },
 	{
-      "name": "Anton Grudiæ",
+      "name": "Anton Grudiï¿½",
       "url": "http://mali-zeleni.hr"
     }
   ]
